@@ -1,0 +1,19 @@
+.Home-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 20px;
+}
+.home-image-container img{
+    width: 100%;
+    margin-right: 10%;
+    margin-top: 15%;
+
+}
+.home-info-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 10%;
+    text-align: justify;
+    margin-left: 15%;
+}
