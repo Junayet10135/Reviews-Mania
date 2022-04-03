@@ -3,40 +3,43 @@
     "id": "1",
     "name": "maya hoque",
     "ratings": 4,
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCGb5mD8vhYwbaCn9yijdXYovwK2zUJrnGDg&usqp=CAU&fbclid=IwAR1gKNx3869MyjIyIuzxL4HCD38jv9_OONUXO4l9AS_TJgnWxqoR2N3gYA4"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCGb5mD8vhYwbaCn9yijdXYovwK2zUJrnGDg&usqp=CAU&fbclid=IwAR1gKNx3869MyjIyIuzxL4HCD38jv9_OONUXO4l9AS_TJgnWxqoR2N3gYA4",
+    "comment":"good Propduct"
     
   },
   {
    "id": "2",
     "name": "arya sultana",
     "ratings": 5,
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRo5TmPdRp9mhJQ4Unm0a8Bh0OXTRWHMNz0hQ&usqp=CAU&fbclid=IwAR3vVOqXIBgvG4gP4FYsMo5LcrNTaxQEYkHoA61EFDyMbB15MxuPhoz9m7E"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRo5TmPdRp9mhJQ4Unm0a8Bh0OXTRWHMNz0hQ&usqp=CAU&fbclid=IwAR3vVOqXIBgvG4gP4FYsMo5LcrNTaxQEYkHoA61EFDyMbB15MxuPhoz9m7E",
+    "comment":"good Propduct"
   },
   {
     "id": "3",
     "name": "yaalan singh",
     "ratings": 4.5,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAYWm7TwxYUYqAhnpQNgd92209vu4Kgg_8yQ&usqp=CAU&fbclid=IwAR2H4K0xUfSOMDKRg3L2CaauFjy8eT1sL4s-pVtjqsN0GsgTT_cikvtaaKM",
-    "Review":"good Propduct"
+    "comment":"good Propduct"
   },
   {
     "id": "4",
     "name": "hanna khan",
     "ratings": 5,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7DRJ1ZhaM3lKppi9lBKK3wjr2Bhaln_OXRA&usqp=CAU&fbclid=IwAR3YvYtb6h6fc6F8G0ufH2exPEHzHZ0OI3k994A7GSxEvpO8pcpfEej819Y",
-    "Review":"good Propduct"
+    "comment":"good Propduct"
   },
   {
     "id": "5",
     "name": "michel hossain",
     "ratings": 3.5,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "Review":"good Propduct"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwTE8WaJYfoLdKPUoVFvhOWtAKmDepJaQtQw&usqp=CAU&fbclid=IwAR3Id9KynCWnn5EHwEdt_zCSwbbVUGXafMXrU5trrPOPQKeqgGe2u-FE4Nc",
+    "comment":"good Propduct"
   },
   {
     "id": "6",
     "name": "Jilendhar Singh",
     "ratings": 5,
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7l6nJt3R2zpOD4-6rlJtCpufSw1Nam82-og&usqp=CAU&fbclid=IwAR2NRNhJZlSTm2LNth5VcXAHSM13Mwd1ur7aAItQG79nxoc92LCZfWNcUiA"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7l6nJt3R2zpOD4-6rlJtCpufSw1Nam82-og&usqp=CAU&fbclid=IwAR2NRNhJZlSTm2LNth5VcXAHSM13Mwd1ur7aAItQG79nxoc92LCZfWNcUiA",
+    "comment":"good Propduct"
   }
 ]
