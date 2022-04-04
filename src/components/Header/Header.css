@@ -21,7 +21,7 @@ nav {
   margin-left: 15px;
   font-size: 20px;
   color: #1e90c2;
-  transition: color ease-in-out 300ms;
+  transition: color ease-in-out 300ms; 
 }
 
 .link:hover {
@@ -32,6 +32,7 @@ nav {
   text-decoration: none;
   margin-left: 15px;
   font-size: 20px;
-  transition: color ease-in-out 300ms;
+ transition: color ease-in-out 300ms; 
   color: #1b4388;
+  border-bottom: red 3px solid;
 }
