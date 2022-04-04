@@ -3,10 +3,10 @@ import Review from '../Review/Review';
 import './Reviews.css'
 
 const Reviews = () => {
-    const [reviews, setReviews] = useReviews();
+    const [reviews] = useReviews();
     return (
         <div>
-            <h2>Review</h2>
+            <h2 className='text-5xl font-bold mt-8'>Review</h2>
             <div className='review-container'>
                 {
                     reviews.map(review => <Review

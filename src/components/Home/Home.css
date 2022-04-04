@@ -22,9 +22,10 @@ height: fit-content;
     text-align: justify;
     margin-left: 10%;
 }
-.btn-Home-info{
-    width: 100px;
-    height: 30px;
-    background-color: aqua;
+.btn-Home{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: rgb(190, 132, 236);
     border-radius: 10px;
 }

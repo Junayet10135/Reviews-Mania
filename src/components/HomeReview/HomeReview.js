@@ -5,7 +5,7 @@ import useReviews from '../Hooks/useReviews';
 import ThreeReviews from '../ThreeReviews/ThreeReviews';
 
 const HomeReview = () => {
-    const [reviews, setReviews] = useReviews();
+    const [reviews] = useReviews();
     const navigate = useNavigate();
 
     const handleSeeAllReview =()=>{
@@ -14,7 +14,7 @@ const HomeReview = () => {
     }
     return (
         <div>
-            <h1 className='text-5xl mt-8'>Customer Reviews</h1>
+            <h1 className='text-5xl mt-8 font-medium'>Customer Reviews</h1>
             
             <div className='review-container'>
                 {
@@ -26,7 +26,9 @@ const HomeReview = () => {
                     )
                 }
             </div>
-            <button onClick={handleSeeAllReview}>See All Review : {reviews.length}</button>
+           <div className='mb-8'>
+                <button className='btn-Home' onClick={handleSeeAllReview}>See All Review</button>
+           </div>
         </div>
     );
 };
