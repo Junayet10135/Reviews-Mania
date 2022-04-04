@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div>
             <h1 className='text-5xl font-bold font-serif mt-4 text-purple-300'>Review's Mania</h1>
-            <div className='Home-container'>
+            <div className='Home-container grid grid-cols-2'>
             <div className='home-info-container'>
                 <h1 className='text-5xl font-extrabold text-blue-400 mb-4'>We Are Here For You</h1>
                 <h1 className='text-4xl font-extrabold text-purple-300'>Know Whats Best For you</h1>
