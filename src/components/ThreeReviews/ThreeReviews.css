@@ -6,7 +6,6 @@
     
 }
 .review{
-   width: 500px;
     height: 250px;
     background-color: rgb(250, 245, 245);
     box-shadow: 12px 12px 2px 1px rgba(130, 130, 145, 0.2);
@@ -14,9 +13,7 @@
     border-radius: 10px; 
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-    
+    align-items: center;  
 }
 .review-info{
     text-align: left;

@@ -6,7 +6,9 @@ const ThreeReviews = ({ review }) => {
     return (
         <div className=''>
             <div className='review'>
-                <img src={img} alt="" />
+                <div className='client-pic'>
+                    <img src={img} alt="" />
+                </div>
                 <div className='review-info'>
                     <h2 className='text-2xl'> <span className='font-bold'>Name:</span> {name}</h2>
                     <h4 className='text-xl'><span className='font-bold'>Ratings:</span> <small>{ratings}</small></h4>

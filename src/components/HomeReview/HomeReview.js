@@ -27,7 +27,7 @@ const HomeReview = () => {
                 }
             </div>
            <div className='mb-8'>
-                <button className='btn-Home' onClick={handleSeeAllReview}>See All Review</button>
+                <button className='btn-Home font-bold' onClick={handleSeeAllReview}>See All Review</button>
            </div>
         </div>
     );
