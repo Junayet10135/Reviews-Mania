@@ -1,8 +1,8 @@
 import React from 'react';
-import './Review.css'
+import './ThreeReviews.css'
 
-const Review = ({ review }) => {
-    const {img, name, ratings , comment} = review ;
+const ThreeReviews = ({ review }) => {
+    const { img, name, ratings, comment } = review;
     return (
         <div className=''>
             <div className='review'>
@@ -17,4 +17,4 @@ const Review = ({ review }) => {
     );
 };
 
-export default Review;
+export default ThreeReviews;
