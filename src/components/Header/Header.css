@@ -21,7 +21,8 @@ nav {
   margin-left: 15px;
   font-size: 20px;
   color: #1e90c2;
-  transition: color ease-in-out 300ms; 
+  transition: color ease-in-out 300ms;
+  border-bottom:gray 3px solid; 
 }
 
 .link:hover {

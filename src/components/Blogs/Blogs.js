@@ -16,7 +16,7 @@ const Blogs = () => {
                     require minimal setup on the other hand Redux requires extensive setup to integrate it with<br></br>
                     react application.</p>
             </div>
-            <div>
+            <div className='mb-8'>
                 <h2 className='text-4xl text-left ml-64 mb-8'>What is Semantic Tag?</h2>
                 <p className='text-left ml-64'>
 

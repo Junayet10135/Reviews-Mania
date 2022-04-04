@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Area, AreaChart, Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { Area, AreaChart, Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Pie, PieChart, Tooltip, XAxis, YAxis } from 'recharts';
 
 const Dashboard = () => {
     const [data, setData] = useState([]);
@@ -65,6 +65,7 @@ const Dashboard = () => {
                     </AreaChart>
                     <h2><strong>Fig:</strong> Area Chart</h2>
                 </div>
+
             </div>
         </div>
     );
